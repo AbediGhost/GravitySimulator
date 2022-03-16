@@ -8,6 +8,13 @@ int main()
 	//comment///ddddd
 	//defd/
 	//fdfdfdf
+	//ccddf
+	//fddfdfdfdfdfd
+	//fdfdfddfd
+	/*dfdfdfdffdfd
+	dfdfdfdffdfddfdd
+	ddddddfdd
+	*/
     mote.Run();
     return 0;
 }
